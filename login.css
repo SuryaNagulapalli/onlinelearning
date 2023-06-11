@@ -1,0 +1,123 @@
+
+.login-section-bg-container
+{
+    background-image: url("https://www.wscubetech.com/blog/wp-content/uploads/2021/11/why-online-learning-is-good-1.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.text-center
+{
+    text-align: center;
+}
+
+.main-heading
+{
+    font-family: 'roboto';
+    font-size: 45px;
+    color: black;
+    font-weight: 300;
+}
+
+.paragraph
+{
+    font-family: 'roboto';
+    font-size: 24px;
+    color:black;
+    font-weight: 300;
+}
+
+.login-button
+{
+    height: 45px;
+    width: 150px;
+    border-radius: 9px;
+    color: white;
+    background-color:orange;
+    margin-right: 10px;
+    border-width: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.sign-up-button
+{
+    height: 45px;
+    width: 150px;
+    border-radius: 9px;
+    color: black;
+    background-color:transparent;
+    margin-right: 10px;
+    border-color:black ;
+    border-style: solid;
+    border-width: 1px;
+}
+::placeholder {
+    color:white;
+    opacity: 1; 
+  }
+
+.username
+{
+    height: 45px;
+    width: 80%;
+    border-radius: 8px;
+    border-width: 2px;
+    padding: 3px;
+    margin-bottom: 20px;
+    background-color: transparent;
+    margin-top: 20px;
+    border-color: white;
+}
+
+.password
+{
+    height: 45px;
+    width: 80%;
+    border-radius: 8px;
+    border-width: 2px;
+    padding: 3px;
+    margin-bottom: 20px;
+    background-color: transparent;
+    border-color: white;
+}
+
+.firstname
+{
+    height: 45px;
+    width: 80%;
+    border-radius: 8px;
+    border-width: 2px;
+    padding: 3px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: transparent;
+    border-color: white;
+}
+.lastname
+{
+    height: 45px;
+    width: 80%;
+    border-radius: 8px;
+    border-width: 2px;
+    padding: 3px;
+    margin-bottom: 20px;
+    background-color: transparent;
+    border-color: white;
+}
+.email
+{
+    height: 45px;
+    width: 80%;
+    border-radius: 8px;
+    border-width: 2px;
+    border-color: white;
+    padding: 3px;
+    margin-bottom: 20px;
+    background-color: transparent;
+}
+
+.modal-body
+{
+    background-image: url("https://www.wscubetech.com/blog/wp-content/uploads/2021/11/why-online-learning-is-good-1.jpg");
+    background-size: cover;
+}

@@ -1,0 +1,197 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@600;700&family=Dancing+Script:wght@400;500;600;700&family=Roboto:ital,wght@0,400;1,300;1,400;1,900&display=swap');
+
+.logo
+{
+    font-family: 'Alkatra', cursive;
+}
+
+.logo-span
+{
+    font-family: 'Alkatra', cursive;
+    color: orange;
+    font-weight: bold;
+
+}
+
+.nav-item-1
+{
+    color: black;
+    font-weight: bold;
+    font-family: 'Alkatra', cursive;
+}
+
+.nav-item-2
+{
+    color: black;
+    font-weight: bold;
+    font-family: 'Alkatra', cursive;
+}
+
+.nav-item-3
+{
+    color: black;
+    font-weight: bold;
+    font-family: 'Alkatra', cursive;
+}
+
+.nav-item-4
+{
+    color: black;
+    font-weight: bold;
+    font-family: 'Alkatra', cursive;
+}
+
+.nav-item-5
+{
+    color: black;
+    font-weight: bold;
+    font-family: 'Alkatra', cursive;
+}
+
+.nav-item-6
+{
+    color: black;
+    font-weight: bold;
+    font-family: 'Alkatra', cursive;
+}
+
+.bg-container
+{
+    /* background-image: url("https://wp-media.petersons.com/blog/wp-content/uploads/2017/11/10123526/j-kelly-brito-256889-unsplash-1.jpg"); */
+    height: 90vh;
+    width: 100%;
+    background-size: cover;
+    background-color: aliceblue;
+}
+
+.heading
+{
+    font-family: 'Alkatra', cursive;
+    color:black;
+    font-size: 900;
+    font-weight: bold;
+}
+
+.content
+{
+    font-family: 'Alkatra', cursive;
+    color:black;
+    font-size: 900;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30xp;
+}
+.text-center
+{
+    text-align: center;
+}
+
+.start
+{
+    height: 45px;
+    border-radius: 12px;
+    background-color:orange;
+    color:black;
+    font-weight: bold;
+}
+.demo
+{
+    height: 45px;
+    border-radius: 12px;
+    background-color:orange;
+    color:black;
+    font-weight: bold;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+}
+
+
+.video-size
+{
+    height: 100px;
+    width: 100px;
+}
+.course-heading
+{
+    text-align: center;
+    font-family: 'Alkatra', cursive;
+    color:black;
+    font-size: 900;
+    font-weight: bold;
+}
+
+.review-container
+{
+    height: 100vh;
+}
+.review-heading
+{
+    text-align: center;
+    font-family: 'Alkatra', cursive;
+    color:black;
+    font-size: 900;
+    font-weight: bold;
+}
+.review-pic
+{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    padding:5px;
+}
+.people-name
+{
+    text-align: center;
+    font-family: 'Alkatra', cursive;
+    color:black;
+    font-size: 900;
+    font-weight: bold;
+    padding:5px;
+}
+
+.review-card
+{
+    background-color: ghostwhite;
+    border-radius: 12px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.contact-information
+{
+    text-align: center;
+    font-family: 'Alkatra', cursive;
+    color:black;
+    font-size: 900;
+    font-weight: bold;
+    padding:5px;
+}
+
+.contact-heading
+{
+    text-align: center;
+    font-family: 'Alkatra', cursive;
+    color:black;
+    font-weight: bold;
+    padding:5px;
+}
+.contact-content
+{
+    text-align: center;
+    font-family: 'Alkatra', cursive;
+    color:black;
+    font-size: 400;
+    font-weight: bold;
+    padding:5px;
+}
+
+.contact-card
+{
+    background-color: ghostwhite;
+    border-radius: 12px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}

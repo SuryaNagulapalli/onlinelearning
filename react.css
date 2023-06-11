@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@600;700&family=Dancing+Script:wght@400;500;600;700&family=Roboto:ital,wght@0,400;1,300;1,400;1,900&display=swap');
+    
+
+.course-heading
+{
+    text-align: center;
+    font-family: 'Alkatra', cursive;
+    color:black;
+    font-size: 900;
+    font-weight: bold;
+}
