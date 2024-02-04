@@ -1,2 +1,2 @@
 ## Web link
-[https://suryanagulapalli.github.io/onlinelearning/]
+https://suryanagulapalli.github.io/onlinelearning/
